@@ -25,18 +25,18 @@
 
 ### `AboutMe`
 
-- I am a **student** 📚
-- I am from **Bangladesh** 🇧🇩 
-- Love of my life : **Cyber Security**🛡️
-- Dream: become a cyber expert💸
-- Fun Fact: I spend more time in **coding**
+- I am a ***student📚*** 
+- I am from ***Bangladesh🇧🇩***
+- Love of my life : ***Cyber Security🛡️***
+- Dream: ***become a cyber expert💸***
+- Fun Fact: I spend more time in ***coding***
 
 ### Current Works:
-- Codeing
-- Reading
-- Helping people
-- Anroid phone bug bounty hunting 
-- Working on some private projects.
+- ***Codeing***
+- ***Reading***
+- ***Helping people***
+- ***Anroid phone bug bounty hunting***
+- ***Working on some private projects.***
 <hr />
 
 </table>
@@ -49,7 +49,7 @@
 class Languages:
   def __init__(self):
     self.python = "Python 🐍"
-    self.golang = "Other language (Learning)"
+    self.other = "Other language (Learning)"
     self.future = "..."
 ```
 
