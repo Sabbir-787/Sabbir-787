@@ -25,11 +25,11 @@
 
 ### `AboutMe`
 
-- I am a ***student📚*** 
+- I am a ***Student📚*** 
 - I am from ***Bangladesh🇧🇩***
 - Love of my life : ***Cyber Security🛡️***
-- Dream: ***become a cyber expert💸***
-- Fun Fact: I spend more time in ***coding***
+- Dream: ***Become a cyber security expert💸***
+- Fun Fact: I spend more time in ***Coding***
 
 ### Current Works:
 - ***Codeing***
