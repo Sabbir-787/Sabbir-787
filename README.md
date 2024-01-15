@@ -45,12 +45,17 @@
 
 <!-- Languages -->
 ### `~# Proggraming languages
-```python
-class Languages:
-  def __init__(self):
-    self.python = "Python 🐍"
-    self.other = "Other language (Learning)"
-    self.future = "..."
+```
+1•Python
+2•Bash
+3•Javascript
+→In learning:
+1•Html
+2•C#
+3•Ruby
+4•SQL
+5•PHP
+6•Pearl
 ```
 
 <br/>
