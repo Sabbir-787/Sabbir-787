@@ -44,19 +44,20 @@
 <br/>
 
 <!-- Languages -->
-### `~# Proggraming languages
+Proggraming languages
+```
 
-1•***Python***
-2•***Bash***
-3•***Javascript***
+1•Python
+2•Bash
+3•Javascript
 →In learning:
-1•***Html***
-2•***C#***
-3•***Ruby***
-4•***SQL***
-5•***PHP***
-6•***Perl***
-
+1•Html
+2•C#
+3•Ruby
+4•SQL
+5•PHP
+6•Perl
+```
 
 <br/>
 </table>
