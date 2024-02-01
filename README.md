@@ -1,3 +1,4 @@
+**Closed** **For** **S.S.C** **exam** **for** **50** **Days**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sabbir-787&label=Profile%20views&color=0e75b6&style=flat" alt="Sabbir-787" /> </p>
 <h2>Hey Fork's  , it's <i>Dewan Sadi Al Sabbir, and I'm 17 years old 👋</i></h2>
 <br /><br />
@@ -58,7 +59,6 @@ Proggraming languages
 5•PHP
 6•Perl
 ```
-
 <br/>
 </table>
 
