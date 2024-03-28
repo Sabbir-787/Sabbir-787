@@ -49,14 +49,12 @@ Proggraming languages
 
 1•Python
 2•Bash
-3•Javascript
+3•HTML
+4•CSS
 →In learning:
-1•Html
-2•C#
-3•Ruby
-4•SQL
-5•PHP
-6•Perl
+1•SQL
+2•PHP
+3•Perl
 ```
 <br/>
 </table>
